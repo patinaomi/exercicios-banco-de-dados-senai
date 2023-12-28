@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-de-fundo: #970000;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
