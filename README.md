@@ -10,7 +10,7 @@ Repositório dedicado para armazenar os exercícios no curso de Banco de Dados 1
 
 # Exercícios
 
-### [Ex. 1 - DDL] (#exercicio-ddl)
+* [Ex. 1 - DDL](/exercicio-ddl)
 
 
 [:arrow_up: voltar para o índice :arrow_up:](#índice)
